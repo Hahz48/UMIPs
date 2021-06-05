@@ -12,7 +12,7 @@
 *The BASK token is the Governance token for the Basket DAO Protocol. Adding BASK as a price collateral currency for the creation of synthetic tokens is the purpose of this collateral UMIP.*
 
 ## Motivation
-*Adding BASK as a collateral currency would allow Basket DAO community members the ability to create synthetic tokens for the creation of KPI options. The creation of these tokens using the UMA protocol, will not only allow for growth in the Basket DAO community but would also raise the current TVL of the UMA protocol thus benefitting both communities.  Basket DAO has also expressed interest in other UMA protocol products as well.*
+*Adding BASK as a collateral currency would give Basket DAO community members the ability to create synthetic tokens for the creation of KPI options. The creation of these tokens using the UMA protocol, will not only allow for growth in the Basket DAO community but would also raise the current TVL of the UMA protocol thus benefitting both communities.  Basket DAO has also expressed interest in other UMA protocol products as well. The current market cap for Basket DAO is $2,455,155M. Cion Gecko suggests that BASKs trust score is good. They also estimate the BASK/ETH exchange pair has a good liqudity. At time of this writing it was at $1,333,811M in at Sushiswap.*
 
 ## Technical Specification
 
